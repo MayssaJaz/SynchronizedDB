@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="libraries/amqp-client-5.6.0.jar"/>
+	<classpathentry kind="lib" path="libraries/gson-2.8.2.jar"/>
+	<classpathentry kind="lib" path="libraries/mysql-connector-java-5.1.49.jar"/>
+	<classpathentry kind="lib" path="libraries/rabbitmq-jms-1.11.1.jar"/>
+	<classpathentry kind="lib" path="libraries/slf4j-api-1.8.0-beta0.jar"/>
+	<classpathentry kind="lib" path="libraries/slf4j-nop-1.8.0-beta0.jar"/>
+	<classpathentry kind="lib" path="/home/missa/Desktop/GL3/Semestre2/Application repartie/jars/amqp-client-5.6.0.jar"/>
+	<classpathentry kind="lib" path="/home/missa/Desktop/GL3/Semestre2/Application repartie/jars/gson-2.8.6.jar"/>
+	<classpathentry kind="lib" path="/home/missa/Desktop/GL3/Semestre2/Application repartie/jars/rabbitmq-jms-1.11.1.jar"/>
+	<classpathentry kind="lib" path="/home/missa/Desktop/GL3/Semestre2/Application repartie/jars/slf4j-api-1.8.0-beta0.jar"/>
+	<classpathentry kind="lib" path="/home/missa/Desktop/GL3/Semestre2/Application repartie/jars/slf4j-nop-1.8.0-beta0.jar"/>
+	<classpathentry kind="lib" path="/home/missa/Desktop/GL3/Semestre2/Application repartie/Connectors/mysql-connector-java-5.1.6-bin.jar"/>
+	<classpathentry kind="lib" path="/home/missa/Desktop/GL3/Semestre2/Application repartie/Connectors/mysql-connector-java-5.1.6-bin.jar.zip"/>
+	<classpathentry kind="lib" path="/home/missa/Desktop/GL3/Semestre2/Application repartie/Connectors/mysql-connector-java-5.1.15-bin.jar"/>
+	<classpathentry kind="lib" path="/home/missa/Desktop/GL3/Semestre2/Application repartie/Connectors/mysql-database-1.8.8.jar"/>
+	<classpathentry kind="lib" path="/home/missa/Desktop/GL3/Semestre2/Application repartie/Connectors/mysql-database-1.8.8.jar.zip"/>
+	<classpathentry kind="lib" path="/home/missa/Desktop/GL3/Semestre2/Application repartie/Connectors/mysql-database-1.8.8-sources.jar"/>
+	<classpathentry kind="lib" path="/home/missa/Desktop/GL3/Semestre2/Application repartie/Connectors/mysql-database-1.8.8-sources.jar.zip"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
